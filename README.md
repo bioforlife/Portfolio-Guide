@@ -4,9 +4,9 @@ A summary of my data projects
 - Tableau
 - Python
 ### Tableau:
-|      Project  Link                   |  Description     |  Dashboard  Link    |
-|-------------------------------------:|------------------|---------------------|
-|  Cost of Housing Now vs Then         |  Cleaned, joined and analysed multiple data on house prices in London throughout multiple years, using Excel.  |   https://public.tableau.com/views/Wouldyouneedtotimetraveltobuyahouse/Aretheglorydaysforhousehuntingbehindus?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link  |
+|      Project  Link                   |  Area  |  Description     |  Dashboard  Link    |
+|-------------------------------------:|--------|------------------|---------------------|
+|  Cost of Housing Now vs Then         |  EDA, Time Series  |  Cleaned, joined and analysed multiple data on house prices in London throughout multiple years, using Excel.  |   https://public.tableau.com/views/Wouldyouneedtotimetraveltobuyahouse/Aretheglorydaysforhousehuntingbehindus?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link  |
 ### Python:
 |  Project  Link  |  Description   |  Libraries   |
 |----------------:|----------------|--------------|
